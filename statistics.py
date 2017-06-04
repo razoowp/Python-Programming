@@ -14,3 +14,5 @@ print(a)
 from statistics import mean, variance
 meanValue = mean(list)
 print("MeanValue: ", meanValue)
+
+#Also we can import all the functions with asterisk: from statistics import *
