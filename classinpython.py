@@ -1,3 +1,4 @@
+#class person
 class Person:
     def setFullName(self, firstName, lastName):
         self.firstName = firstName;
