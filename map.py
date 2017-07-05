@@ -1,6 +1,6 @@
 #Map program
 #The function map takes a function and an iterable as arguments, and returns
-#a new iterable with the function applied to each argument.
+# a new iterable with the function applied to each argument.
 
 def add_five(x):
     return x+5
