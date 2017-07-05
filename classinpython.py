@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #This creates class person
+=======
+#class person
+>>>>>>> 52da50923ac90c4ab9be99ef18734f4916d8e291
 class Person:
     def setFullName(self, firstName, lastName):
         self.firstName = firstName;
